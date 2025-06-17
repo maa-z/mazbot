@@ -1,0 +1,9 @@
+streamlit
+requests
+speechrecognition
+pyttsx3
+pyaudio
+langchain
+langchain-community
+langchain-huggingface
+dotenv
